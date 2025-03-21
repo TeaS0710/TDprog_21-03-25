@@ -1,2 +1,2 @@
 # TDprog_21-03-25
-DEPOT pour td prog 
+"Ce programme sert à compter le nombre de tokens appartenant à des entités nomm´ees (EN) dans un fichier CSV. Les EN sont annotées au format IOB2"
